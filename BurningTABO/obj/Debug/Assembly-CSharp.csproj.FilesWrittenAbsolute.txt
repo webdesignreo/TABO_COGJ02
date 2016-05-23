@@ -1,0 +1,17 @@
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/obj/Debug/Assembly-CSharp.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/UnityEngine.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/UnityEditor.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/Mono.Cecil.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/Unity.DataContract.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/eitoh/Documents/genjitutouhitubasa/feature/main/BurningTABO/Temp/bin/Debug/Mono.Cecil.Mdb.dll
